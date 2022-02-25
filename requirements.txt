@@ -1,0 +1,7 @@
+nltk
+flask
+pandas
+tensorflow-cpu
+flask_cors
+gunicorn
+
